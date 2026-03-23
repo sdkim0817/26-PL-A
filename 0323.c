@@ -3,4 +3,5 @@
 int main()
 {
     printf("today is 3-23 monday\n");
+    printf("tommorrow is 3-24 Tuesday\n");
 }
